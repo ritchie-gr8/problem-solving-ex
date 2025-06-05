@@ -25,7 +25,7 @@ const groupBy = (
   return result;
 };
 
-let result1 = groupBy(
+let w16o1a1 = groupBy(
   [
     { name: "Apple", type: "fruit" },
     { name: "Broccoli", type: "vegetable" },
@@ -34,7 +34,7 @@ let result1 = groupBy(
   "type"
 );
 
-console.log(result1);
+console.log(w16o1a1);
 // {
 //   fruit: [
 //     { name: "Apple", type: "fruit" },
